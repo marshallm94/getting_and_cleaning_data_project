@@ -5,7 +5,7 @@
  [1] "subjectID" - The ID of the test subject                           
  [2] "activityID" - The activity the subject was performing
  
- The description of the following variable can be found at the bottom of this    document
+ The description of the following variables can be found at the bottom of this    document
  
  [3] "tBodyAcc-mean()-X"                   
  [4] "tBodyAcc-mean()-Y"                   
