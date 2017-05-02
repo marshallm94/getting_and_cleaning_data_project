@@ -1,5 +1,5 @@
-##CodeBook##
-###short summary of each variable in finaldata_2###
+#CodeBook
+##short summary of each variable in finaldata_2
 
  [1] "subjectID" - The ID of the test subject                           
  [2] "activityID" - The activity the subject was performing
