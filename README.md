@@ -1,4 +1,4 @@
-##Introduction
+##Introduction##
 
 In run_analysis.R, I have labeled various chunks of code as parts 1-6 and I will
 explain them below accordingly. At the top of run_analysis.R there is an 
@@ -14,7 +14,7 @@ directory (when files are originally downloaded from the Coursera link, there
 are sub-directories for the test and train datasets; for run_analysis.R to work,
 it is necessary that all files in both the test and train directories are moved to the main directory, uci_har_dataset)
 
-###Code Explanation
+###Code Explanation###
 
 Part 1: Reads the subject, activity label, and main dataset for the "train" group. Renames the columns in the subject and activity label dataset to subjectID and activityID, respectively. Reads the features dataset, cleans it up a bit, and uses the colnames() fx to set the column names of train_main to the values of the features dataset. cbind() is then used to connect the three train datasets together, creating a complete train_data dataset.
 
